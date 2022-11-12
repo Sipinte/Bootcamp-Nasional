@@ -13,11 +13,11 @@ Let's Code Together!!
 
 ### A
 
-- Ahmad Yani - 2019 - Universitas Xyz _(Contoh format [nama - angkatan - instansi])_
+- Amalia Putri Sipinte - 2021 - Politeknik Negeri Lhoseumawe
 
 ### B
 
-- Amalia Putri Sipinte - 2021 - Politeknik Negeri Lhoseumawe
+- 
 
 ### C
 
