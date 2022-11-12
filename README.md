@@ -13,7 +13,7 @@ Let's Code Together!!
 
 ### A
 
-- Amalia Putri Sipinte - 2021 - Politeknik Negeri Lhoseumawe
+- Amalia Putri Sipinte - 2021 - Politeknik Negeri Lhoseumawe (PNL)
 
 ### B
 
