@@ -25,6 +25,13 @@ const mahasiswa = [
  * menampilkan nilai uas mk Pemrograman Web pada Array of Object mahasiswa
  */
 // TODO 1: Ketikkan kode Anda di bawah ini!
+function printNilaiUAS(){
+for (let index = 0; index < mahasiswa.length; index++) {
+  console.log(mahasiswa[index].nama, ' : ' , mahasiswa[index].mk[0].uas);
+  
+}
+}
+ printNilaiUAS()
 
 /** 2 :
  * Buatlah sebuah function dengan parameter nama yang berfungsi untuk
@@ -32,3 +39,11 @@ const mahasiswa = [
  * berdasarkan nama mahasiswa
  */
 // TODO 2: Ketikkan kode Anda di bawah ini!
+let data;
+function nilaiUAS(data){
+ for (let index = 0; index < mahasiswa.length; index++){
+  console.log(mahasiswa[index].nama, ' : ' , mahasiswa[index].mk[0].uas);
+ }
+}
+nilaiUAS(data)
+
